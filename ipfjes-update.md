@@ -4,6 +4,10 @@
 
 ## 
 
+Big thank-you to Paul, Chris, Sara, Rupa, Magda, Caitlin, Audrey, and all of our recruitment centre PIs and research staff, Imperial College, and Wellcome Trust.
+
+##
+
 Incidence of IPF has been rising; several reasons to think might be related to occupational exposures and asbestos in particular.
 
 ## 
@@ -25,41 +29,46 @@ We've recruited 488 cases and 359 controls from 21 centres so far. Average parti
 
 ## {data-background="peto_cats.png" data-background-size="contain"} 
 
-## 
-       cases  controls  odds ratio   p-value
-ever     315       225    1.084393  0.612752
-never    173       134    1.000000  0.612752
-
-## 
-
-                                        cases  controls  odds ratio   p-value
-Non-construction high risk occupations     60        44    1.031941  1.000000
-Construction                              138        92    1.135135  0.578942
-Medium risk industrial                    117        89    0.994838  1.000000
-Low risk industrial                        99        78    0.960499  0.907502
-Office and other low risk                  74        56    1.000000  1.000000
-
 ##
+
+|       | cases | controls | OR         | p-value  |
+|-------|-------|----------|------------|----------|
+| ever  | 315   | 225      | 1.084393   | 0.612752 |
+| never | 173   | 134      | 1.000000   | 0.612752 |
+
+
+## 
+
+|                                        | cases | controls | OR         | p-value  |
+|----------------------------------------|-------|----------|------------|----------|
+| Non-construction high risk             | 60    | 44       | 1.031941   | 1.000000 |
+| Construction                           | 138   | 92       | 1.135135   | 0.578942 |
+| Medium risk industrial                 | 117   | 89       | 0.994838   | 1.000000 |
+| Low risk industrial                    | 99    | 78       | 0.960499   | 0.907502 |
+| Office                                 | 74    | 56       | 1.000000   | 1.000000 |
+
+
+## 
 
 percentage of cases and controls reporting asbestos exposure associated with a job
 
-pt
-case       27.959184
-control    27.500000
+| pt      |           |
+|---------|-----------|
+| case    | 27.959184 |
+| control | 27.500000 |
+
+## 
+
+fibre ml year exposure
 
 ##
 
-      fibre/ml exposure                                                \
-                    count         mean          std       min       25%   
-pt                                                                        
-case                121.0  1129.381165  5663.661963  0.000012  0.385084   
-control              95.0   592.137998  3211.030246  0.000247  0.212785   
+|         | count | mean        | median   |
+|---------|-------|-------------|----------|
+| pt      |       |             |          |
+| case    | 121   | 1129.381165 | 6.857143 |
+| control | 95    | 592.137998  | 3.975499 |
 
-                                            
-              50%        75%           max  
-pt                                          
-case     6.857143  63.415525  50761.904762  
-control  3.975499  59.925802  23785.714286  
 
 ## {data-background="fibre_ml_in_exposed.png" data-background-size="contain"} 
 
@@ -93,8 +102,7 @@ Odds ratio for asbestos exposure
 
 OddsR:  1.0062272963155163 p-Value: 1.0
 
-## 
-
+##
 contact
 
 - carlreynolds.net / @drcjar / drcjar@gmail.com 
