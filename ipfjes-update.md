@@ -8,6 +8,10 @@ Big thank-you to Paul, Chris, Sara, Rupa, Magda, Caitlin, Audrey, and all of our
 
 ##
 
+> www.carlreynolds.net/ipfjes-update 
+
+##
+
 Incidence of IPF has been rising; several reasons to think might be related to occupational exposures and asbestos in particular.
 
 ## 
@@ -27,35 +31,30 @@ We've recruited 488 cases and 359 controls from 21 centres so far. Average parti
 
 65% of cases and 63% of controls ever had a medium or high risk job.
 
-## {data-background="peto_cats.png" data-background-size="contain"} 
+## {data-background="peto_cats.png" data-background-size="contain" data-background-color="white"} 
 
 ##
 
 |       | cases | controls | OR         | p-value  |
 |-------|-------|----------|------------|----------|
-| ever  | 315   | 225      | 1.084393   | 0.612752 |
-| never | 173   | 134      | 1.000000   | 0.612752 |
+| ever  | 315   | 225      | 1.08       | 0.61     |
+| never | 173   | 134      | 1.00       | 0.61     |
 
 
 ## 
 
 |                                        | cases | controls | OR         | p-value  |
 |----------------------------------------|-------|----------|------------|----------|
-| Non-construction high risk             | 60    | 44       | 1.031941   | 1.000000 |
-| Construction                           | 138   | 92       | 1.135135   | 0.578942 |
-| Medium risk industrial                 | 117   | 89       | 0.994838   | 1.000000 |
-| Low risk industrial                    | 99    | 78       | 0.960499   | 0.907502 |
-| Office                                 | 74    | 56       | 1.000000   | 1.000000 |
+| Non-construction high risk             | 60    | 44       | 1.03       | 1.00     |
+| Construction                           | 138   | 92       | 1.13       | 0.57     |
+| Medium risk industrial                 | 117   | 89       | 0.99       | 1.00     |
+| Low risk industrial                    | 99    | 78       | 0.96       | 0.90     |
+| Office                                 | 74    | 56       | 1.00       | 1.00     |
 
 
 ## 
 
-percentage of cases and controls reporting asbestos exposure associated with a job
-
-| pt      |           |
-|---------|-----------|
-| case    | 27.959184 |
-| control | 27.500000 |
+27.5 percentage of cases and 27.5 controls reporting asbestos exposure associated with a job
 
 ## 
 
@@ -65,46 +64,48 @@ fibre ml year exposure
 
 |         | count | mean        | median   |
 |---------|-------|-------------|----------|
-| pt      |       |             |          |
-| case    | 121   | 1129.381165 | 6.857143 |
-| control | 95    | 592.137998  | 3.975499 |
+| case    | 121   | 1129.38     | 6.85     |
+| control | 95    | 592.13      | 3.97     |
 
 
-## {data-background="fibre_ml_in_exposed.png" data-background-size="contain"} 
+## {data-background="fibre_ml_in_exposed.png" data-background-size="contain" data-background-color="white"} 
 
 ## 
 
 Odds ratio for smoking
 
-OddsR:  1.39055330634278 p-Value: 0.03544254254190904
+> OddsR:  1.39 p-Value: 0.03
 
 ##
 
 Odds ratio for wood exposure
 
-OddsR:  1.2008223153821347 p-Value: 0.5360277827908599
+> OddsR:  1.20 p-Value: 0.53
 
 ## 
 
 Odds ratio for metal exposure
 
-OddsR:  1.455656500108155 p-Value: 0.06828010668670857
+> OddsR:  1.45 p-Value: 0.07
 
 ##
 
 Odds ratio for stone exposure
 
-OddsR:  1.9258358662613981 p-Value: 0.1553162892509007
+> OddsR:  1.92 p-Value: 0.15
 
 ##
 
 Odds ratio for asbestos exposure
 
-OddsR:  1.0062272963155163 p-Value: 1.0
+> OddsR:  1.01 p-Value: 1.0
 
 ##
+
 contact
 
 - carlreynolds.net / @drcjar / drcjar@gmail.com 
 
+visit 
 
+- www.ipfjes.org
